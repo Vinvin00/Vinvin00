@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Vincenzo 👋<br>I build full-stack projects and I’m the kind of person who can’t stop tweaking the UI until it feels right. Design is a big part of how I work, not just a final coat of paint.<br><br>Right now I’m learning Python for maximum versatility, and C# because game dev has my attention (Unity adventures incoming 🎮).
+Hey, I’m Vincenzo 👋<br>I build full-stack projects and I’m the kind of person who can’t stop tweaking the UI until it feels right. Design is a big part of how I work, not just a final coat of paint.
 
 
 ## 🌐 Socials:
