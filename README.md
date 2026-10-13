@@ -1,15 +1,41 @@
-# 💫 About Me:
-Hey, I’m Vincenzo 👋<br>I build full-stack projects and I’m the kind of person who can’t stop tweaking the UI until it feels right. Design is a big part of how I work, not just a final coat of paint.
+### Hi, I'm Vincenzo 👋
 
+From Naples, studying business and computer science (AI) at IE University in Madrid. I build products end to end: mobile apps, web dashboards, and simulation and ML tooling for aerospace-flavoured problems. Currently a software engineer at Italtronik, shipping client projects in TypeScript and Node.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinbalbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-balbi-808563230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balbi.vincenzo07@gmail.com) 
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript" title="TypeScript" height="20">
+  <img src="https://cdn.simpleicons.org/javascript/7d8590" alt="JavaScript" title="JavaScript" height="20">
+  <img src="https://cdn.simpleicons.org/python/7d8590" alt="Python" title="Python" height="20">
+  <img src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++" title="C++" height="20">
+  <img src="https://cdn.simpleicons.org/c/7d8590" alt="C" title="C" height="20">
+  <img src="https://cdn.simpleicons.org/swift/7d8590" alt="Swift" title="Swift" height="20">
+  <img src="https://cdn.simpleicons.org/pytorch/7d8590" alt="PyTorch" title="PyTorch" height="20">
+  <img src="https://cdn.simpleicons.org/react/7d8590" alt="React" title="React / React Native" height="20">
+  <img src="https://cdn.simpleicons.org/nodedotjs/7d8590" alt="Node.js" title="Node.js" height="20">
+  <img src="https://cdn.simpleicons.org/firebase/7d8590" alt="Firebase" title="Firebase" height="20">
+  <img src="https://cdn.simpleicons.org/docker/7d8590" alt="Docker" title="Docker" height="20">
+  <img src="https://cdn.simpleicons.org/git/7d8590" alt="Git" title="Git" height="20">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Vinvin00/AERIS"><img src="docs/aeris.gif" alt="AERIS demo" width="100%"></a>
+      <br><a href="https://github.com/Vinvin00/AERIS"><b>AERIS</b></a>
+      <br>Monocular aircraft detection, tracking and image-space trajectory forecasting from recorded video. Timestamp-aware decoding, Kalman tracking and a metric harness. Demo is a synthetic fixture, and the repo is explicit about what has and hasn't been measured.
+      <br><sub>Python · C++ · ONNX</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Vinvin00/missile_guidance_sim"><img src="docs/guidance.gif" alt="guidance sim demo" width="100%"></a>
+      <br><a href="https://github.com/Vinvin00/missile_guidance_sim"><b>Guidance Sim</b></a>
+      <br>3D pursuit simulation comparing classical proportional navigation against a learned policy, on 6-DOF flight dynamics with a cascaded autopilot. Built at textbook GNC abstraction level.
+      <br><sub>Python · PyTorch · NumPy</sub>
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Smaller things: [aero-spec-rag](https://github.com/Vinvin00/aero-spec-rag), [weather-spotify-playlist](https://github.com/Vinvin00/weather-spotify-playlist), [Pitch-Perfect](https://github.com/Vinvin00/Pitch-Perfect), [Portfolio](https://github.com/Vinvin00/Portfolio), [Gym-Tracker](https://github.com/Vinvin00/Gym-Tracker), [Hangman-in-C](https://github.com/Vinvin00/Hangman-in-C).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinvin00&layout=compact&hide_border=true&bg_color=00000000&title_color=7d8590&text_color=7d8590&langs_count=6" alt="Most used languages" height="140">
