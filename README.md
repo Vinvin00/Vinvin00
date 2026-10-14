@@ -1,41 +1,38 @@
-### Hi, I'm Vincenzo 👋
+<div align="center">
 
-From Naples, studying business and computer science (AI) at IE University in Madrid. I build products end to end: mobile apps, web dashboards, and simulation and ML tooling for aerospace-flavoured problems. Currently a software engineer at Italtronik, shipping client projects in TypeScript and Node.
+<img src="docs/banner.svg" alt="Vincenzo Balbi, software engineer" width="100%">
 
-<p>
-  <img src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript" title="TypeScript" height="20">
-  <img src="https://cdn.simpleicons.org/javascript/7d8590" alt="JavaScript" title="JavaScript" height="20">
-  <img src="https://cdn.simpleicons.org/python/7d8590" alt="Python" title="Python" height="20">
-  <img src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++" title="C++" height="20">
-  <img src="https://cdn.simpleicons.org/c/7d8590" alt="C" title="C" height="20">
-  <img src="https://cdn.simpleicons.org/swift/7d8590" alt="Swift" title="Swift" height="20">
-  <img src="https://cdn.simpleicons.org/pytorch/7d8590" alt="PyTorch" title="PyTorch" height="20">
-  <img src="https://cdn.simpleicons.org/react/7d8590" alt="React" title="React / React Native" height="20">
-  <img src="https://cdn.simpleicons.org/nodedotjs/7d8590" alt="Node.js" title="Node.js" height="20">
-  <img src="https://cdn.simpleicons.org/firebase/7d8590" alt="Firebase" title="Firebase" height="20">
-  <img src="https://cdn.simpleicons.org/docker/7d8590" alt="Docker" title="Docker" height="20">
-  <img src="https://cdn.simpleicons.org/git/7d8590" alt="Git" title="Git" height="20">
-</p>
+**Business + CS (AI) at IE University, Madrid. Building products end to end.**
 
-### Projects
+[LinkedIn](https://www.linkedin.com/in/vincenzo-balbi-808563230/) · [Email](mailto:balbi.vincenzo07@gmail.com)
+
+</div>
+
+## Featured
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vinvin00/AERIS"><img src="docs/aeris.gif" alt="AERIS demo" width="100%"></a>
+      <a href="https://github.com/Vinvin00/AERIS"><img src="docs/aeris.gif" alt="AERIS overlay demo" width="100%"></a>
       <br><a href="https://github.com/Vinvin00/AERIS"><b>AERIS</b></a>
-      <br>Monocular aircraft detection, tracking and image-space trajectory forecasting from recorded video. Timestamp-aware decoding, Kalman tracking and a metric harness. Demo is a synthetic fixture, and the repo is explicit about what has and hasn't been measured.
-      <br><sub>Python · C++ · ONNX</sub>
+      <br>Detects aircraft in recorded video, tracks them and forecasts image-space trajectories. Kalman tracking, a COCO/HOTA metric harness and 179 tests. The demo is a synthetic fixture, and the repo states plainly what has and hasn't been measured.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vinvin00/missile_guidance_sim"><img src="docs/guidance.gif" alt="guidance sim demo" width="100%"></a>
+      <a href="https://github.com/Vinvin00/missile_guidance_sim"><img src="docs/guidance.gif" alt="Guidance simulation demo" width="100%"></a>
       <br><a href="https://github.com/Vinvin00/missile_guidance_sim"><b>Guidance Sim</b></a>
-      <br>3D pursuit simulation comparing classical proportional navigation against a learned policy, on 6-DOF flight dynamics with a cascaded autopilot. Built at textbook GNC abstraction level.
-      <br><sub>Python · PyTorch · NumPy</sub>
+      <br>A 3D pursuit simulation on 6-DOF flight dynamics. A learned policy hits 88.7% of 300 held-out evasive-target cases against 72.7% for classical proportional navigation.
     </td>
   </tr>
 </table>
 
-Smaller things: [aero-spec-rag](https://github.com/Vinvin00/aero-spec-rag), [weather-spotify-playlist](https://github.com/Vinvin00/weather-spotify-playlist), [Pitch-Perfect](https://github.com/Vinvin00/Pitch-Perfect), [Portfolio](https://github.com/Vinvin00/Portfolio), [Gym-Tracker](https://github.com/Vinvin00/Gym-Tracker), [Hangman-in-C](https://github.com/Vinvin00/Hangman-in-C).
+## Also built
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinvin00&layout=compact&hide_border=true&bg_color=00000000&title_color=7d8590&text_color=7d8590&langs_count=6" alt="Most used languages" height="140">
+- [**aero-spec-rag**](https://github.com/Vinvin00/aero-spec-rag): ask for an aerospace parameter, get cited JSON back, with out-of-bounds values rejected
+- [**Weather Playlist**](https://github.com/Vinvin00/weather-spotify-playlist): a Spotify playlist that rebuilds itself hourly from the weather in Segovia
+- [**Pitch Perfect**](https://github.com/Vinvin00/Pitch-Perfect): AI presentation coach scoring eye contact, posture, pace and filler words
+- [**3D Portfolio**](https://github.com/Vinvin00/Portfolio): walk a character around a floating island to explore each section
+- [**Hangman in C**](https://github.com/Vinvin00/Hangman-in-C): multiplayer terminal Hangman over TCP sockets
+
+## Stack
+
+TypeScript · React · React Native · Node.js · Python · PyTorch · FastAPI · Firebase · C · C++ · Swift · Docker
