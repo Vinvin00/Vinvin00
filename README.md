@@ -1,14 +1,23 @@
-<div align="center">
+### Hi, I'm Vincenzo 👋
 
-<img src="docs/banner.svg" alt="Vincenzo Balbi, software engineer" width="100%">
+From Naples, studying business and computer science (AI) at IE University in Madrid. I build products end to end: mobile apps, web dashboards, and simulation and ML tooling for aerospace-flavoured problems. Currently a software engineer at Italtronik, shipping client projects in TypeScript and Node.
 
-**Business + CS (AI) at IE University, Madrid. Building products end to end.**
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript" title="TypeScript" height="20">
+  <img src="https://cdn.simpleicons.org/javascript/7d8590" alt="JavaScript" title="JavaScript" height="20">
+  <img src="https://cdn.simpleicons.org/python/7d8590" alt="Python" title="Python" height="20">
+  <img src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++" title="C++" height="20">
+  <img src="https://cdn.simpleicons.org/c/7d8590" alt="C" title="C" height="20">
+  <img src="https://cdn.simpleicons.org/swift/7d8590" alt="Swift" title="Swift" height="20">
+  <img src="https://cdn.simpleicons.org/pytorch/7d8590" alt="PyTorch" title="PyTorch" height="20">
+  <img src="https://cdn.simpleicons.org/react/7d8590" alt="React" title="React / React Native" height="20">
+  <img src="https://cdn.simpleicons.org/nodedotjs/7d8590" alt="Node.js" title="Node.js" height="20">
+  <img src="https://cdn.simpleicons.org/firebase/7d8590" alt="Firebase" title="Firebase" height="20">
+  <img src="https://cdn.simpleicons.org/docker/7d8590" alt="Docker" title="Docker" height="20">
+  <img src="https://cdn.simpleicons.org/git/7d8590" alt="Git" title="Git" height="20">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/vincenzo-balbi-808563230/) · [Email](mailto:balbi.vincenzo07@gmail.com)
-
-</div>
-
-## Featured
+### Featured
 
 <table>
   <tr>
