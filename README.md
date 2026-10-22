@@ -40,7 +40,6 @@ From Naples, studying business and computer science (AI) at IE University in Mad
 - [**Weather Playlist**](https://github.com/Vinvin00/weather-spotify-playlist): a Spotify playlist that rebuilds itself hourly from the weather in Segovia
 - [**Pitch Perfect**](https://github.com/Vinvin00/Pitch-Perfect): AI presentation coach scoring eye contact, posture, pace and filler words
 - [**3D Portfolio**](https://github.com/Vinvin00/Portfolio): walk a character around a floating island to explore each section
-- [**Hangman in C**](https://github.com/Vinvin00/Hangman-in-C): multiplayer terminal Hangman over TCP sockets
 
 ## Stack
 
