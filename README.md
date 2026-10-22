@@ -23,7 +23,7 @@ From Naples, studying business and computer science (AI) at IE University in Mad
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Vinvin00/AERIS/releases/download/demo-video-v1/aeris-demo.mp4"><img src="docs/aeris.gif" alt="AERIS tracking four jets and nine Red Arrows with 1 s forecast arrows" width="100%"></a>
-      <br><a href="https://github.com/Vinvin00/AERIS"><b>AERIS</b></a> · <a href="https://github.com/Vinvin00/AERIS/releases/download/demo-video-v1/aeris-demo.mp4">full demo ▶</a>
+      <br><a href="https://github.com/Vinvin00/AERIS"><b>AERIS</b></a> 
       <br>Detects aircraft from a single camera, tracks them and forecasts where they'll be a second later. YOLOX on ONNX, Kalman tracking and a COCO/HOTA metric harness. The demo is real pipeline output on public footage; forecast errors are scored against later detections, not labelled ground truth.
       <br><sub>Footage: Lucastphotography (CC BY 4.0), Jo Brodie (CC0), via Wikimedia Commons.</sub>
     </td>
